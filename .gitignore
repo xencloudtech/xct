@@ -1,0 +1,7 @@
+# Ultra Edit bak files #
+###################
+*.bak
+
+# Google Drive desktop.ini files  #
+###################
+desktop.ini
